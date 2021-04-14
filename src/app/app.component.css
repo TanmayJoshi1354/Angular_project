@@ -1,0 +1,21 @@
+.Cards{
+  margin-bottom: 20px;
+  width: 250px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.layout-row{
+
+    display: flex;
+    flex-wrap:wrap;
+    align-items: stretch;
+
+}
+
+.head{
+    margin-right: 10px;
+    margin-left:10px;
+    color:azure;
+}
+
